@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "medium",
+    "elapsed_time": 43.513382848999754,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "decision-tree",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-23 18:12:57",
+    "workload": "decision-tree"
+}

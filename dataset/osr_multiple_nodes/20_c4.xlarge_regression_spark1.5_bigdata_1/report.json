@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "bigdata",
+    "elapsed_time": 2752.209619200001,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "regression",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2018-01-06 15:34:37",
+    "workload": "regression"
+}

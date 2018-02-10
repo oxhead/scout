@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "large",
+    "elapsed_time": 177.70488681500046,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "pearson",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-23 02:41:23",
+    "workload": "pearson"
+}

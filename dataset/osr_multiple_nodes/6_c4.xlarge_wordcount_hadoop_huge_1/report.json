@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "huge",
+    "elapsed_time": "660.110",
+    "framework": "hadoop",
+    "input_size": "51326787650",
+    "program": "HadoopWordcount",
+    "throughput_cluster": "77754900",
+    "throughput_node": "12959150",
+    "timestamp": "2018-01-05 22:59:16",
+    "workload": "wordcount"
+}

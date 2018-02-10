@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "large",
+    "elapsed_time": 99.39470318900021,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "lda",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-22 22:00:46",
+    "workload": "lda"
+}

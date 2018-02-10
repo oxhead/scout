@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "small",
+    "elapsed_time": 650.9121761369988,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "classification",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-20 02:10:58",
+    "workload": "classification"
+}

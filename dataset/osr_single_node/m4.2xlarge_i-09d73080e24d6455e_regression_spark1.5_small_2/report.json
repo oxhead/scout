@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "small",
+    "elapsed_time": 82.55451544799985,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "regression",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-19 22:41:22",
+    "workload": "regression"
+}

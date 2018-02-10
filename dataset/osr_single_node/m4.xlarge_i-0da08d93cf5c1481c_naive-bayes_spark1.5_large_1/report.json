@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "large",
+    "elapsed_time": 1538.2276309590015,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "naive-bayes",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-24 01:12:22",
+    "workload": "naive-bayes"
+}

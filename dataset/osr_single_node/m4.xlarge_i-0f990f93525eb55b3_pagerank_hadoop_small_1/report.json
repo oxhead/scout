@@ -1,0 +1,6 @@
+{
+    "completed": false,
+    "datasize": "small",
+    "framework": "hadoop",
+    "workload": "pagerank"
+}

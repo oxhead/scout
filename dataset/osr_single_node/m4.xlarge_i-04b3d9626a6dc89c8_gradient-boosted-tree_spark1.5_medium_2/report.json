@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "medium",
+    "elapsed_time": 33.49620078399994,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "gradient-boosted-tree",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-19 23:00:36",
+    "workload": "gradient-boosted-tree"
+}

@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "bigdata",
+    "elapsed_time": "472.899",
+    "framework": "spark",
+    "input_size": "187596533122",
+    "program": "ScalaSparkJoin",
+    "throughput_cluster": "396694713",
+    "throughput_node": "39669471",
+    "timestamp": "2018-01-06 07:40:18",
+    "workload": "join"
+}

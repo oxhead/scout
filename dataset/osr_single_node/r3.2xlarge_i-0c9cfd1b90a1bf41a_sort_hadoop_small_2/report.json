@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "small",
+    "elapsed_time": "322.821",
+    "framework": "hadoop",
+    "input_size": "3284902717",
+    "program": "HadoopSort",
+    "throughput_cluster": "10175616",
+    "throughput_node": "10175616",
+    "timestamp": "2017-09-22 03:55:06",
+    "workload": "sort"
+}

@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "large",
+    "elapsed_time": 203.94026788300107,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "word2vec",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-24 00:13:17",
+    "workload": "word2vec"
+}

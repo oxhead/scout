@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "medium",
+    "elapsed_time": 80.78568954100001,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "random-forest",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-22 21:21:19",
+    "workload": "random-forest"
+}

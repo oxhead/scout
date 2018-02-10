@@ -1,0 +1,6 @@
+{
+    "completed": false,
+    "datasize": "small",
+    "framework": "spark1.5",
+    "workload": "chi-sq-mat"
+}

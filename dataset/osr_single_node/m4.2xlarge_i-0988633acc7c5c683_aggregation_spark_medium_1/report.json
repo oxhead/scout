@@ -1,0 +1,6 @@
+{
+    "completed": false,
+    "datasize": "medium",
+    "framework": "spark",
+    "workload": "aggregation"
+}

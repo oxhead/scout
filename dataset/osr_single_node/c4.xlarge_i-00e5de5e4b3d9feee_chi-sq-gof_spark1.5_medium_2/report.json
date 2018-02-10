@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "medium",
+    "elapsed_time": 12.885307219999959,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "chi-sq-gof",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-22 21:53:18",
+    "workload": "chi-sq-gof"
+}

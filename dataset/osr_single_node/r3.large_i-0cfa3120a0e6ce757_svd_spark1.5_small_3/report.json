@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "small",
+    "elapsed_time": 607.5935905339993,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "svd",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-23 05:38:34",
+    "workload": "svd"
+}

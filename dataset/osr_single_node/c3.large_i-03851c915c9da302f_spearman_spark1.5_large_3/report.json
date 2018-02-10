@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "large",
+    "elapsed_time": 222.3121066169988,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "spearman",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-23 07:33:55",
+    "workload": "spearman"
+}

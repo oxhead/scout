@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "large",
+    "elapsed_time": 57.69077982199997,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "block-matrix-mult",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-19 22:59:55",
+    "workload": "block-matrix-mult"
+}

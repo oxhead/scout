@@ -1,0 +1,12 @@
+{
+    "completed": false,
+    "datasize": "bigdata",
+    "elapsed_time": 7200.006273895007,
+    "framework": "spark",
+    "input_size": -1,
+    "program": "",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2018-01-06 03:27:53",
+    "workload": "lr"
+}

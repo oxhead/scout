@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "medium",
+    "elapsed_time": 94.13798543900339,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "pca",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-24 02:42:25",
+    "workload": "pca"
+}

@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "large",
+    "elapsed_time": "644.187",
+    "framework": "hadoop",
+    "input_size": "743941533",
+    "program": "HadoopAggregation",
+    "throughput_cluster": "1154853",
+    "throughput_node": "1154853",
+    "timestamp": "2017-09-25 03:46:36",
+    "workload": "aggregation"
+}

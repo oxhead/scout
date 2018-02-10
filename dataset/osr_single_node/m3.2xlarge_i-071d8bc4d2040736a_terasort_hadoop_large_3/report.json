@@ -1,0 +1,6 @@
+{
+    "completed": false,
+    "datasize": "large",
+    "framework": "hadoop",
+    "workload": "terasort"
+}

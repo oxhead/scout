@@ -1,0 +1,6 @@
+{
+    "completed": false,
+    "datasize": "small",
+    "framework": "spark",
+    "workload": "join"
+}

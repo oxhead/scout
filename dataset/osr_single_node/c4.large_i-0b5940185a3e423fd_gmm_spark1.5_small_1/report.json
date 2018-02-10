@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "small",
+    "elapsed_time": 126.71989323900198,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "gmm",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-24 02:18:24",
+    "workload": "gmm"
+}

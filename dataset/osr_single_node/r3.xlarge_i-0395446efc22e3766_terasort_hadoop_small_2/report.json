@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "small",
+    "elapsed_time": "230.919",
+    "framework": "hadoop",
+    "input_size": "3200000000",
+    "program": "HadoopTerasort",
+    "throughput_cluster": "13857673",
+    "throughput_node": "13857673",
+    "timestamp": "2017-09-24 11:28:04",
+    "workload": "terasort"
+}

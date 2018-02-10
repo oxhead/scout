@@ -1,0 +1,12 @@
+{
+    "completed": true,
+    "datasize": "medium",
+    "elapsed_time": 50.32849842200085,
+    "framework": "spark1.5",
+    "input_size": -1,
+    "program": "fp-growth",
+    "throughput_cluster": -1,
+    "throughput_node": -1,
+    "timestamp": "2017-09-20 01:39:13",
+    "workload": "fp-growth"
+}
