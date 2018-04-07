@@ -22,13 +22,16 @@ We encourage researchers share their performance data.  Please submit a pull req
 # How to Cite
 
 ```
-@article{hsu2017low,
+@inproceedings{hsu2018low,
   title={Low-Level Augmented Bayesian Optimization for Finding the Best Cloud VM},
   author={Hsu, Chin-Jung and Nair, Vivek and Freeh, Vincent W and Menzies, Tim},
-  journal={arXiv preprint arXiv:1712.10081},
-  year={2017}
+  booktitle={Distributed Computing Systems (ICDCS), 2018 IEEE 38th International Conference on},
+  year={2018}
+}
+@article{hsu2018scout,
+  title={Scout: An Experienced Guide to Find the Best Cloud Configuration},
+  author={Hsu, Chin-Jung and Nair, Vivek and Menzies, Tim and Freeh, Vincent W},
+  journal={arXiv preprint arXiv:1803.01296},
+  year={2018}
 }
 ```
-
-
-
