@@ -17,20 +17,29 @@ For each measurement, we collect its execution time and also its low-level perfo
 | [osr_multiple_nodes](dataset/osr_multiple_nodes.md) | AWS EC2  | <ul><li>Hadoop 2.7</li><li>Spark 2.1</li><li>Spark 1.5</li></ul> | <ul><li>terasort</li><li>pagerank</li><li>wordcount</li><li>join</li><li>lr</li><li>kmeans</li><li>naive-bayes</li><li>regression</li></ul>          | Multiple workloads running on the multiple-nodes setting on AWS |
 
 # How to Contribute
-We encourage researchers share their performance data.  Please submit a pull request.
+* We encourage researchers share their performance data.  Please submit a pull request.
+* You can obtain the scripts and required AMI at the [scout-scripts repo](https://github.com/oxhead/scout-scripts).
+
+
 
 # How to Cite
 
 ```
-@inproceedings{hsu2018low,
-  title={Low-Level Augmented Bayesian Optimization for Finding the Best Cloud VM},
+@inproceedings{hsu2018arrows,
+  title={Arrow: Low-Level Augmented Bayesian Optimization for Finding the Best Cloud VM},
   author={Hsu, Chin-Jung and Nair, Vivek and Freeh, Vincent W and Menzies, Tim},
+  booktitle={Distributed Computing Systems (ICDCS), 2018 IEEE 38th International Conference on},
+  year={2018}
+}
+@inproceedings{hsu2018micky,
+  title={Micky: A Cheaper Alternative for Selecting Cloud Instances},
+  author={Hsu, Chin-Jung and Nair, Vivek and Menzies, Tim and Freeh, Vincent},
   booktitle={Distributed Computing Systems (ICDCS), 2018 IEEE 38th International Conference on},
   year={2018}
 }
 @article{hsu2018scout,
   title={Scout: An Experienced Guide to Find the Best Cloud Configuration},
-  author={Hsu, Chin-Jung and Nair, Vivek and Menzies, Tim and Freeh, Vincent W},
+  author={Hsu, Chin-Jung and Nair, Vivek and Menzies, Tim and Freeh, Vincent},
   journal={arXiv preprint arXiv:1803.01296},
   year={2018}
 }
