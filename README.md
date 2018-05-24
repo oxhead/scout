@@ -25,7 +25,7 @@ For each measurement, we collect its execution time and also its low-level perfo
 # How to Cite
 
 ```
-@inproceedings{hsu2018arrows,
+@inproceedings{hsu2018arrow,
   title={Arrow: Low-Level Augmented Bayesian Optimization for Finding the Best Cloud VM},
   author={Hsu, Chin-Jung and Nair, Vivek and Freeh, Vincent W and Menzies, Tim},
   booktitle={the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS 2018)},
