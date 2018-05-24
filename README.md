@@ -28,13 +28,13 @@ For each measurement, we collect its execution time and also its low-level perfo
 @inproceedings{hsu2018arrows,
   title={Arrow: Low-Level Augmented Bayesian Optimization for Finding the Best Cloud VM},
   author={Hsu, Chin-Jung and Nair, Vivek and Freeh, Vincent W and Menzies, Tim},
-  booktitle={Distributed Computing Systems (ICDCS), 2018 IEEE 38th International Conference on},
+  booktitle={the 2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS 2018)},
   year={2018}
 }
 @inproceedings{hsu2018micky,
   title={Micky: A Cheaper Alternative for Selecting Cloud Instances},
   author={Hsu, Chin-Jung and Nair, Vivek and Menzies, Tim and Freeh, Vincent},
-  booktitle={Distributed Computing Systems (ICDCS), 2018 IEEE 38th International Conference on},
+  booktitle={the IEEE International Conference on Cloud Computing (IEEE CLOUD 2018)}
   year={2018}
 }
 @article{hsu2018scout,
